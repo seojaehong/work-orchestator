@@ -1,0 +1,11 @@
+{
+  "task_id": "test-task",
+  "project": "work-orchestrator",
+  "owner": "opus",
+  "status": "done",
+  "branch": null,
+  "handoff_file": "/home/ubuntu/work-orchestrator/handoffs/test-task.md",
+  "result_file": null,
+  "review_summary": "서버 세팅 완료 확인",
+  "updated_at": "2026-03-25T12:00:16.505087Z"
+}

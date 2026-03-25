@@ -1,0 +1,11 @@
+{
+  "task_id": "string",
+  "project": "string",
+  "owner": "string",
+  "status": "queued | in_progress | done | needs_review | blocked | accepted",
+  "branch": "string | null",
+  "handoff_file": "string | null",
+  "result_file": "string | null",
+  "review_summary": "string | null",
+  "updated_at": "ISO-8601 string"
+}

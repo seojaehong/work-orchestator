@@ -1,0 +1,21 @@
+name = "labor-decisions-search"
+workspace = "/home/ubuntu/work-orchestrator/repos/labor-decisions-search"
+kind = "local-git-repo"
+
+[roles]
+primary_reviewer = "claude_opus"
+producer = "claude_sonnet"
+implementer = "codex"
+
+[rules]
+baseline_must_remain = true
+candidate_only_improvement = true
+compare_mode_required = true
+default_branch = "master"
+
+[verification]
+build_command = "npm run build"
+notes = "검색 안정화, candidate/compare 검증, baseline 유지"
+
+[notes]
+summary = "노동위 판정례 검색/비교/태깅/ML 실험 프로젝트"

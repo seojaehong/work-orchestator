@@ -1,0 +1,11 @@
+{
+  "task_id": "sample-search-fix",
+  "project": "labor-decisions-search",
+  "owner": "unassigned",
+  "status": "done",
+  "branch": null,
+  "handoff_file": "/home/ubuntu/work-orchestrator/handoffs/sample-search-fix.md",
+  "result_file": "/home/ubuntu/work-orchestrator/results/sample-search-fix.md",
+  "review_summary": "result file detected",
+  "updated_at": "2026-03-25T12:00:46.537535Z"
+}
